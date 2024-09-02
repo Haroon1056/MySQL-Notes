@@ -38,13 +38,17 @@ Python-Mysql DataBase Connectivity
 
 # Screenshots
 
-![Screenshot (85)](https://github.com/user-attachments/assets/3723ae17-efdf-46e0-81a9-7a39a155c9bd)
-![Screenshot (84)](https://github.com/user-attachments/assets/1e885e81-2c2f-44ba-ba26-33c318b71f2d)
-![Screenshot (83)](https://github.com/user-attachments/assets/df7219de-3e18-40e0-8454-11d1b314ec11)
-![Screenshot (82)](https://github.com/user-attachments/assets/e4ea168a-2586-4cdc-9fe4-0ff9d3f32acb)
-![Screenshot (81)](https://github.com/user-attachments/assets/11354281-cb2e-4456-bf24-8995224f8b85)
-![Screenshot (80)](https://github.com/user-attachments/assets/d97f941c-bb27-4daf-9018-bd4be93fa9ac)
-![Screenshot (86)](https://github.com/user-attachments/assets/fdc116b9-88df-4d42-89cc-8b7134ada054)
+![Screenshot (80)](https://github.com/user-attachments/assets/bcd768d5-bbcc-4112-ab37-64dab6f254b4)
+![Screenshot (81)](https://github.com/user-attachments/assets/bd508dea-fa32-46b3-b957-335d08133a27)
+![Screenshot (82)](https://github.com/user-attachments/assets/ad93aac1-0c6a-436f-bf46-01656325e45f)
+![Screenshot (83)](https://github.com/user-attachments/assets/1a314a9c-8ec8-41dc-9aae-363f2933ce7b)
+![Screenshot (84)](https://github.com/user-attachments/assets/2df72ccb-f1f2-42fc-9f57-2d85cffc28f9)
+![Screenshot (85)](https://github.com/user-attachments/assets/c8ee35b9-d502-4d40-aefd-cba99a99ffa5)
+![Screenshot (86)](https://github.com/user-attachments/assets/b2564cfd-fe89-4383-876b-81e0d06986f8)
+
+
+
+
 
 
 # Contributing
